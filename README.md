@@ -4,8 +4,8 @@ A Simple PID Controller for TurtleBot3.
 ```
 
 #Demo
-[](images/controls_gif1.gif)
-[](images/controls_gif2.gif)
+![sample_results](images/controls_gif1.gif)
+![sample_results](images/controls_gif2.gif)
 
 ##Instructions
 ```
