@@ -2,12 +2,10 @@
 ```
 A Simple PID Controller for TurtleBot3.
 ```
-
-#Demo
 ![sample_results](images/controls_gif1.gif)
 ![sample_results](images/controls_gif2.gif)
 
-##Instructions
+#Instructions
 ```
 1. cd catkin_ws/src
 ```
