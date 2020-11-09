@@ -5,7 +5,7 @@ A Simple PID Controller for TurtleBot3.
 ![sample_results](images/controls_gif1.gif)
 ![sample_results](images/controls_gif2.gif)
 
-#Instructions
+## Instructions
 ```
 1. cd catkin_ws/src
 ```
@@ -25,7 +25,7 @@ A Simple PID Controller for TurtleBot3.
 6. rosrun pid_control pid_control 
 ```
 
-#Note
+## Note
 This doesnt have obstacle avoidance or local planner, just a very simple PID.
 
 
